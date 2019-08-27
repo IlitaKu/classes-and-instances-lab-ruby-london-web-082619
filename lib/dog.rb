@@ -1,2 +1,2 @@
- def Class = Dog
+ Class.Dog
 end
